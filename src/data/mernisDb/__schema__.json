@@ -1,0 +1,12 @@
+{
+   "fileExtension": "txt",
+   "tables": [
+       {
+           "name": "gsmSorgu",
+           "fields": [
+               {"name": "tc", "type": "string"},
+               {"name": "no", "type": "string"}
+           ]
+       }
+   ]
+}
